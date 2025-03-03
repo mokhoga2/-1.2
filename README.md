@@ -1,2 +1,1 @@
-# -1.2
-مشجر ورثة و تحديثه
+# InheritanceTreeCalculator
